@@ -1,4 +1,4 @@
-import cv2 #استدعاء المكتبة
+import cv2 
 PH1 = cv2.imread('basic.jpg')
 PH2 = cv2.imread('images/tow.jpg')
 
